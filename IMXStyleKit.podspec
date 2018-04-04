@@ -36,6 +36,5 @@ Pod::Spec.new do |s|
     ]
     icon.frameworks = 'CoreText'
   end
-end
 
 end
