@@ -34,7 +34,6 @@ Pod::Spec.new do |s|
     icon.public_header_files = [
       'IMXStyleKit/IMXIconfont/*.{h}'
     ]
-    icon.frameworks = 'CoreText'
   end
 
 end
